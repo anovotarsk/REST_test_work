@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# VScode
+.vscode
+.json
+
+# MAC
+.DS_Store
+
+# Resourses
+*.jpg
