@@ -1,8 +1,0 @@
-﻿  jsoncpp.cpp
-  main.cpp
-  MainForm.cpp
-  RESTClient.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Создание кода...
-  jsoncpp.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  RESTtest.vcxproj -> C:\Users\User\Desktop\REST_test_work\x64\Debug\RESTtest.exe
