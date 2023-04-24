@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\REST_test_work\RESTtest\x64\Debug\RESTtest.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\REST_test_work\RESTtest\x64\Debug\RESTtest.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\REST_test_work\RESTtest\x64\Debug\RESTtest.MainForm.resources
+C:\Users\User\Desktop\REST_test_work\RESTtest\x64\Debug\RESTtest.vcxproj.GenerateResource.cache
